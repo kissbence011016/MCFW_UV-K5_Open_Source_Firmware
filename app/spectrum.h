@@ -146,6 +146,8 @@ static const FreqPreset freqPresets[] = {
      BK4819_FILTER_BW_NARROW}
 };
 
+
+
 #ifdef ENABLE_ALL_REGISTERS
 static const RegisterSpec hiddenRegisterSpecs[] = {
     {},
